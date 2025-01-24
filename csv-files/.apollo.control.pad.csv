@@ -1,0 +1,11 @@
+Column Name,Data Type,First Value
+topic,object,/apollo/control/pad
+time,int64,1713980671545135958
+size,int64,20
+msg_type,object,
+_id.$oid,object,6631100d7ae1f4a1c6c71ba7
+metadataID.$oid,object,663110067ae1f4a1c6c706f4
+header.timestampSec,float64,1713980671.5449953
+header.moduleName,object,HMI
+header.sequenceNum,float64,11.0
+action,object,RESET

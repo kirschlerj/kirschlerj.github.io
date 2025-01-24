@@ -1,0 +1,8 @@
+Column Name,Data Type,First Value
+topic,object,/apollo/sensor/gnss/raw_data
+time,int64,1713980657048679955
+size,int64,161
+msg_type,object,
+_id.$oid,object,66310ffd7ae1f4a1c6c6ea51
+metadataID.$oid,object,66310ffc7ae1f4a1c6c6e856
+data,object,qkQSHLkFAKB+AAAASbQHCbi7QRMAAAAC60bzQgMAAAA4AAAAMnIH+gapQ0BYolPMDIdUwAAA0orGImtAAAAMwubDQuRlT8i/NQpLOtSDA0BUh0c52smdP568UrhopPm/+52o1LFk1r/Vvlgj3ptXQET7Dj19eA09edUOPfs3TzwT3008s5YiPC/rrDzPTao83fWjPlECAKsAAH6tT0Y=

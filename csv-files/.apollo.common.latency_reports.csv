@@ -1,0 +1,11 @@
+Column Name,Data Type,First Value
+topic,object,/apollo/common/latency_reports
+time,int64,1713980664439395337
+size,int64,68
+msg_type,object,
+_id.$oid,object,663110057ae1f4a1c6c7037e
+metadataID.$oid,object,66310ffc7ae1f4a1c6c6e856
+header.timestampSec,float64,1713980664.438015
+header.moduleName,object,LatencyReport
+header.sequenceNum,float64,18.0
+modulesLatency.latencyTrack,object,"[{'latencyName': '/apollo/control', 'latencyStat': {'minDuration': '117113', 'maxDuration': '1491149', 'averDuration': '230489', 'sampleSize': 903}}]"

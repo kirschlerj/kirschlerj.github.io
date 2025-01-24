@@ -1,0 +1,33 @@
+Column Name,Data Type,First Value
+topic,object,/apollo/hmi/status
+time,int64,1713980660635888253
+size,int64,1121
+msg_type,object,
+_id.$oid,object,663110027ae1f4a1c6c6f69d
+metadataID.$oid,object,66310ffc7ae1f4a1c6c6e856
+header.timestampSec,float64,1713980660.6341734
+header.moduleName,object,HMI
+header.sequenceNum,float64,79.0
+modes,object,"['Mkz Standard Debug', 'Ipc1 Mkz Standard Debug', 'Navigation', 'Mkz Standard Debug Smart Recorder', 'Ipc2 Mkz Close Loop', 'Mkz Close Loop', 'AStuff Core', 'Car Teleop', 'AStuff Perception', 'Ipc1 Mkz Close Loop', 'Rtk', 'Map Collection', 'Console Teleop', 'Vehicle Calibration', 'Ipc2 Mkz Standard Debug']"
+currentMode,object,AStuff Core
+maps,object,"['Ohio Athens Red V4', 'Ohio Athens Blue V2b', 'Ohio Athens Blue V2c', 'Sunnyvale With Two Offices', 'San Mateo', 'Ohio Athens Blue V1', 'Ohio Athens Blue V3', 'Ohio Athens Blue V4', 'Sunnyvale Big Loop', 'Ohio Athens Blue V4a', 'Ohio Ridges V3', 'Ohio Sports Complex V1', 'Ohio Sports Complex V2', 'Ohio Athens Green V1', 'Sunnyvale Loop', 'Ohio Athens Green V4.35', 'Ohio Athens Green V3', 'Ohio Athens Red V2']"
+currentMap,object,Ohio Ridges V3
+vehicles,object,"['Pacifica', 'Mkz Example', 'AStuff Transit', 'AStuff Lexus', 'Dev Kit']"
+currentVehicle,object,Pacifica
+dockerImage,object,apolloauto/apollo:dev-18.04-x86_64-20191111_1530
+utmZoneId,float64,17.0
+modules.GPS,object,True
+modules.Radar,object,False
+modules.Localization,object,True
+modules.Canbus,object,True
+modules.Traffic Light,object,True
+modules.Control,object,True
+modules.Camera,object,True
+modules.Planning,object,True
+modules.Transform,object,True
+modules.Routing,object,True
+monitoredComponents.ESD-CAN.status,object,ERROR
+monitoredComponents.ESD-CAN.message,object,NTCAN_NET_NOT_FOUND
+monitoredComponents.Localization.status,object,OK
+monitoredComponents.GPS.status,object,OK
+monitoredComponents.GPS.message,object,mainboard -d /apollo/modules/drivers/gnss/dag/gnss.dag -p gnss -s CYBER_DEFAULT 

@@ -1,0 +1,40 @@
+Column Name,Data Type,First Value
+topic,object,/apollo/monitor/system_status
+time,int64,1713980665436497660
+size,int64,1362
+msg_type,object,
+_id.$oid,object,663110067ae1f4a1c6c706e2
+metadataID.$oid,object,66310ffc7ae1f4a1c6c6e856
+header.timestampSec,float64,1713980665.4328773
+header.moduleName,object,SystemMonitor
+header.sequenceNum,float64,42.0
+hmiModules.Canbus.status,object,OK
+hmiModules.Canbus.message,object,mainboard -d /apollo/modules/canbus/dag/canbus.dag -p canbus -s CYBER_DEFAULT 
+hmiModules.Routing.status,object,OK
+hmiModules.Routing.message,object,mainboard -d /apollo/modules/routing/dag/routing.dag -p mainboard_default_16375 -s CYBER_DEFAULT 
+hmiModules.Localization.status,object,OK
+hmiModules.Localization.message,object,mainboard -d /apollo/modules/localization/dag/dag_streaming_rtk_localization.dag -p localization -s CYBER_DEFAULT 
+hmiModules.Traffic Light.status,object,OK
+hmiModules.Traffic Light.message,object,mainboard -d /apollo/modules/perception/production/dag/dag_streaming_perception_trafficlights.dag -p perception_trafficlights -s CYBER_DEFAULT 
+hmiModules.Transform.status,object,OK
+hmiModules.Transform.message,object,mainboard -d /apollo/modules/transform/dag/static_transform.dag -p static_transform -s CYBER_DEFAULT 
+hmiModules.Planning.status,object,OK
+hmiModules.Planning.message,object,mainboard -d /apollo/modules/planning/dag/planning.dag -p planning -s CYBER_DEFAULT 
+hmiModules.Control.status,object,OK
+hmiModules.Control.message,object,mainboard -d /apollo/modules/control/dag/control.dag -p control -s CYBER_DEFAULT 
+hmiModules.Camera.status,object,OK
+hmiModules.Camera.message,object,mainboard -d /apollo/modules/drivers/camera/dag/camera.dag -p usb_cam -s CYBER_DEFAULT 
+hmiModules.GPS.status,object,OK
+hmiModules.GPS.message,object,mainboard -d /apollo/modules/drivers/gnss/dag/gnss.dag -p gnss -s CYBER_DEFAULT 
+hmiModules.Radar.status,object,FATAL
+components.Localization.summary.status,object,OK
+components.Localization.otherStatus.status,object,OK
+components.GPS.summary.status,object,OK
+components.GPS.summary.message,object,mainboard -d /apollo/modules/drivers/gnss/dag/gnss.dag -p gnss -s CYBER_DEFAULT 
+components.GPS.processStatus.status,object,OK
+components.GPS.processStatus.message,object,mainboard -d /apollo/modules/drivers/gnss/dag/gnss.dag -p gnss -s CYBER_DEFAULT 
+components.GPS.otherStatus.status,object,OK
+components.ESD-CAN.summary.status,object,ERROR
+components.ESD-CAN.summary.message,object,NTCAN_NET_NOT_FOUND
+components.ESD-CAN.otherStatus.status,object,ERROR
+components.ESD-CAN.otherStatus.message,object,NTCAN_NET_NOT_FOUND

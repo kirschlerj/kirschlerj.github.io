@@ -1,0 +1,19 @@
+Column Name,Data Type,First Value
+topic,object,/apollo/routing_response_history
+time,int64,1713980656116216196
+size,int64,617
+msg_type,object,
+_id.$oid,object,66310ffc7ae1f4a1c6c6e8b4
+metadataID.$oid,object,66310ffc7ae1f4a1c6c6e856
+header.timestampSec,float64,1713980655.5332763
+header.moduleName,object,routing
+header.sequenceNum,float64,0.0
+road,object,"[{'id': '3', 'passage': [{'segment': [{'id': '3_0_1', 'startS': 40.92904926361773, 'endS': 316.696}], 'canExit': True, 'changeLaneType': 'FORWARD'}]}, {'id': '35', 'passage': [{'segment': [{'id': '35_0_1', 'startS': 0.0, 'endS': 20.6395}], 'canExit': True, 'changeLaneType': 'FORWARD'}]}, {'id': '2', 'passage': [{'segment': [{'id': '2_0_1', 'startS': 0.0, 'endS': 75.578}], 'canExit': True, 'changeLaneType': 'FORWARD'}]}, {'id': '31', 'passage': [{'segment': [{'id': '31_0_1', 'startS': 0.0, 'endS': 14.371}], 'canExit': True, 'changeLaneType': 'FORWARD'}]}, {'id': '1', 'passage': [{'segment': [{'id': '1_0_1', 'startS': 0.0, 'endS': 13.2042}], 'canExit': True, 'changeLaneType': 'FORWARD'}]}, {'id': '6', 'passage': [{'segment': [{'id': '6_0_1', 'startS': 0.0, 'endS': 23.2043}], 'canExit': True, 'changeLaneType': 'FORWARD'}]}, {'id': '5', 'passage': [{'segment': [{'id': '5_0_1', 'startS': 0.0, 'endS': 395.41}], 'canExit': True, 'changeLaneType': 'FORWARD'}]}, {'id': '27', 'passage': [{'segment': [{'id': '27_0_1', 'startS': 0.0, 'endS': 21.3255}], 'canExit': True, 'changeLaneType': 'FORWARD'}]}, {'id': '4', 'passage': [{'segment': [{'id': '4_0_1', 'startS': 0.0, 'endS': 7.14615}], 'canExit': True, 'changeLaneType': 'FORWARD'}]}, {'id': '39', 'passage': [{'segment': [{'id': '39_0_1', 'startS': 0.0, 'endS': 6.17818}], 'canExit': True, 'changeLaneType': 'FORWARD'}]}, {'id': '3', 'passage': [{'segment': [{'id': '3_0_1', 'startS': 0.0, 'endS': 33.09316656666638}], 'canExit': True, 'changeLaneType': 'FORWARD'}]}]"
+mapVersion,object,MQ==
+measurement.distance,float64,885.9169473030487
+routingRequest.header.timestampSec,float64,1713980371.4413006
+routingRequest.header.moduleName,object,dreamview
+routingRequest.header.sequenceNum,float64,0.0
+routingRequest.waypoint,object,"[{'id': '3_0_1', 's': 40.92904926361773, 'pose': {'x': 404285.88449087425, 'y': 4352959.312298862}}, {'id': '3_0_1', 's': 54.138244150779244, 'pose': {'x': 404298.7096827615, 'y': 4352956.285234241}}, {'id': '3_0_1', 's': 33.09316656666638, 'pose': {'x': 404278.55580898817, 'y': 4352962.100385022}}]"
+status.errorCode,object,OK
+status.msg,object,Success!

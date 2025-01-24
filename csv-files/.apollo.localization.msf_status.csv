@@ -1,0 +1,11 @@
+Column Name,Data Type,First Value
+topic,object,/apollo/localization/msf_status
+time,int64,1713980655902509931
+size,int64,24
+msg_type,object,
+_id.$oid,object,66310ffc7ae1f4a1c6c6e85a
+metadataID.$oid,object,66310ffc7ae1f4a1c6c6e856
+header.timestampSec,float64,1713980655.9018922
+measurementTime,float64,1713980655.5135853
+fusionStatus,object,OK
+stateMessage,object,

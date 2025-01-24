@@ -1,0 +1,11 @@
+Column Name,Data Type,First Value
+topic,object,/apollo/routing_request
+time,int64,1713980656443617965
+size,int64,138
+msg_type,object,
+_id.$oid,object,66310ffd7ae1f4a1c6c6e949
+metadataID.$oid,object,66310ffc7ae1f4a1c6c6e856
+header.timestampSec,float64,1713980371.4413006
+header.moduleName,object,dreamview
+header.sequenceNum,float64,0.0
+waypoint,object,"[{'id': '3_0_1', 's': 40.92904926361773, 'pose': {'x': 404285.88449087425, 'y': 4352959.312298862}}, {'id': '3_0_1', 's': 54.138244150779244, 'pose': {'x': 404298.7096827615, 'y': 4352956.285234241}}, {'id': '3_0_1', 's': 33.09316656666638, 'pose': {'x': 404278.55580898817, 'y': 4352962.100385022}}]"

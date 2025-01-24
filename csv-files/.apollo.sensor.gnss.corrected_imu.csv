@@ -1,0 +1,17 @@
+Column Name,Data Type,First Value
+topic,object,/apollo/sensor/gnss/corrected_imu
+time,int64,1713980657048762862
+size,int64,100
+msg_type,object,
+_id.$oid,object,66310ffd7ae1f4a1c6c6ea52
+metadataID.$oid,object,66310ffc7ae1f4a1c6c6e856
+header.timestampSec,float64,1713980656.99
+imu.linearAcceleration.x,float64,-0.8433301384598784
+imu.linearAcceleration.y,float64,-0.28570232615478897
+imu.linearAcceleration.z,float64,0.5194022103104732
+imu.angularVelocity.x,float64,-0.00615006463637518
+imu.angularVelocity.y,float64,0.0024779400598457803
+imu.angularVelocity.z,float64,0.2933729346240272
+imu.eulerAngles.x,float64,-0.027996794164259035
+imu.eulerAngles.y,float64,-0.005917332004482003
+imu.eulerAngles.z,float64,-1.6511663408590247

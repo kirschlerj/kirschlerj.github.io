@@ -1,0 +1,11 @@
+Column Name,Data Type,First Value
+topic,object,/apollo/perception/traffic_light
+time,int64,1713980656076825067
+size,int64,27
+msg_type,object,
+_id.$oid,object,66310ffc7ae1f4a1c6c6e8a0
+metadataID.$oid,object,66310ffc7ae1f4a1c6c6e856
+header.timestampSec,float64,1713980656.076624
+header.cameraTimestamp,object,1713980656057610752
+cameraId,object,CAMERA_FRONT_LONG
+trafficLightDebug.signalNum,float64,0.0

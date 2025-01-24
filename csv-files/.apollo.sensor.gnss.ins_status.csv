@@ -1,0 +1,11 @@
+Column Name,Data Type,First Value
+topic,object,/apollo/sensor/gnss/ins_status
+time,int64,1713980657908851925
+size,int64,22
+msg_type,object,
+_id.$oid,object,66310ffe7ae1f4a1c6c6ed57
+metadataID.$oid,object,66310ffc7ae1f4a1c6c6e856
+header.timestampSec,float64,1713980657.9024546
+header.moduleName,object,gnss
+header.sequenceNum,float64,365.0
+type,object,GOOD

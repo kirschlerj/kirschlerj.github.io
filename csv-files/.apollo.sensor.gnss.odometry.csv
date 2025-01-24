@@ -1,0 +1,18 @@
+Column Name,Data Type,First Value
+topic,object,/apollo/sensor/gnss/odometry
+time,int64,1713980657048837618
+size,int64,109
+msg_type,object,
+_id.$oid,object,66310ffd7ae1f4a1c6c6ea53
+metadataID.$oid,object,66310ffc7ae1f4a1c6c6e856
+header.timestampSec,float64,1713980656.99
+localization.position.x,float64,404303.6397313982
+localization.position.y,float64,4352934.120912606
+localization.position.z,float64,182.0864371638745
+localization.orientation.qx,float64,-0.01229380431495996
+localization.orientation.qy,float64,-0.007318124468543427
+localization.orientation.qz,float64,-0.7348400636666742
+localization.orientation.qw,float64,0.6780895134568051
+localization.linearVelocity.x,float64,2.4410728072168872
+localization.linearVelocity.y,float64,-0.19831970806726873
+localization.linearVelocity.z,float64,0.025303003993697407

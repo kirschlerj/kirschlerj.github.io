@@ -1,0 +1,11 @@
+Column Name,Data Type,First Value
+topic,object,/tf_static
+time,int64,1713980656999693204
+size,int64,611
+msg_type,object,
+_id.$oid,object,66310ffd7ae1f4a1c6c6ea47
+metadataID.$oid,object,66310ffc7ae1f4a1c6c6e856
+header.timestampSec,float64,1713980291.8067389
+header.moduleName,object,static_transform
+header.sequenceNum,float64,0.0
+transforms,object,"[{'header': {'frameId': 'base_link'}, 'childFrameId': 'velodyne32', 'transform': {'translation': {'x': 0.0, 'y': 0.623, 'z': 2.069}, 'rotation': {'qx': 0.0, 'qy': 0.0, 'qz': 0.719, 'qw': 0.695}}}, {'header': {'frameId': 'base_link'}, 'childFrameId': 'radar_front', 'transform': {'translation': {'x': 0.185, 'y': 4.475, 'z': 0.095}, 'rotation': {'qx': 0.0, 'qy': 0.0, 'qz': 0.707, 'qw': 0.707}}}, {'header': {'frameId': 'localization'}, 'childFrameId': 'base_link', 'transform': {'translation': {'x': 0.0, 'y': 0.0, 'z': 0.0}, 'rotation': {'qx': 0.0, 'qy': 0.0, 'qz': 0.0, 'qw': 1.0}}}, {'header': {'frameId': 'localization'}, 'childFrameId': 'novatel', 'transform': {'translation': {'x': 0.0, 'y': -0.336, 'z': 0.046}, 'rotation': {'qx': 0.0, 'qy': 0.0, 'qz': 0.0, 'qw': 1.0}}}, {'header': {'frameId': 'velodyne32'}, 'childFrameId': 'front_6mm', 'transform': {'translation': {'x': 1.39299, 'y': 0.01922, 'z': -0.4629}, 'rotation': {'qx': -0.512022, 'qy': 0.489433, 'qz': -0.492445, 'qw': 0.5057538}}}, {'header': {'frameId': 'velodyne32'}, 'childFrameId': 'front_25mm', 'transform': {'translation': {'x': 1.39299, 'y': -0.21922, 'z': -0.4729}, 'rotation': {'qx': -0.603587, 'qy': 0.3743071, 'qz': -0.5926215, 'qw': 0.3799694}}}]"
