@@ -138,33 +138,47 @@
         </table>
     </div>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+
     <script>
-        // Function to fetch and display CSV filenames
+        // Array of CSV filenames stored in your GitHub repo (update paths if necessary)
+        const csvFiles = [
+            'csv-files/.apollo.canbus.chassis_detail.csv',
+            'csv-files/.apollo.canbus.chassis.csv',
+            'csv-files/.apollo.common.latency_records.csv'
+        ];
+
+        // Function to load CSV filenames and display them as a list
         function loadCSVFiles() {
-            fetch('http://localhost:3000/api/files')
-                .then(response => response.json())
-                .then(files => {
-                    const fileListElement = document.getElementById('csv-files');
-                    files.forEach(file => {
-                        const listItem = document.createElement('li');
-                        const fileNameWithoutExtension = file.replace('.csv', '');
-                        listItem.textContent = fileNameWithoutExtension;
-                        listItem.onclick = () => loadCSVData(file);
-                        fileListElement.appendChild(listItem);
-                    });
-                })
-                .catch(err => console.error('Error fetching files:', err));
+            const fileListElement = document.getElementById('csv-files');
+            csvFiles.forEach(file => {
+                const listItem = document.createElement('li');
+                const fileNameWithoutExtension = file.split('/').pop().replace('.csv', '');
+                listItem.textContent = fileNameWithoutExtension;
+                listItem.onclick = () => loadCSVData(file);
+                fileListElement.appendChild(listItem);
+            });
         }
 
-        // Function to load CSV data and display it in a nested table
+        // Function to load and parse CSV data using PapaParse
         function loadCSVData(fileName) {
-            fetch(`http://localhost:3000/api/data/${fileName}`)
-                .then(response => response.json())
-                .then(data => renderTable(data))
+            const filePath = `https://raw.githubusercontent.com/your-username/your-repo-name/main/${fileName}`;
+
+            fetch(filePath)
+                .then(response => response.text())
+                .then(data => {
+                    Papa.parse(data, {
+                        header: true,
+                        dynamicTyping: true,
+                        complete: function(results) {
+                            renderTable(results.data);
+                        }
+                    });
+                })
                 .catch(err => console.error('Error loading CSV data:', err));
         }
 
-        // Function to render the nested table from CSV data
+        // Function to render the table with CSV data
         function renderTable(data) {
             const table = document.getElementById('data-table');
             table.innerHTML = ''; // Clear the table before rendering new data
@@ -199,4 +213,5 @@
 
 </body>
 </html>
+
 
