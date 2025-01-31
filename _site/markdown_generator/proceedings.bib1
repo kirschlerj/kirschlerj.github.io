@@ -1,0 +1,523 @@
+@phdthesis{wilhelm2012power,
+  title={Power Envelope Expansion using a Solidity Matching Scheme for a Circulation Controlled Vertical Axis Wind Turbine},
+  author={Wilhelm, Jay Paul},
+  year={2012},
+  school={WEST VIRGINIA UNIVERSITY}
+}
+
+@inproceedings{panther2010experimental,
+  title={Experimental Testing of a Wind Tunnel Model for use in a Vertical Axis Wind Turbine},
+  author={Panther, Chad C and Williams, Kenny A and Wilhelm, Jay P and Smith, James E},
+  year={2010},
+  organization={ASME}
+}
+
+@inproceedings{graham2009airfoil,
+  title={Airfoil selection for a straight bladed circulation controlled vertical axis wind turbine},
+  author={Graham IV, Henry Z and Panther, Chad and Hubbell, Meagan and Wilhelm, Jay P and Angle, Gerald M and Smith, James E},
+  booktitle={Energy Sustainability},
+  volume={48890},
+  pages={579--584},
+  year={2009}
+}
+
+@inproceedings{wilhelm2009performance,
+  title={Performance Predictions of a Circulation Controlled-Vertical Axis Wind Turbine with Solidity Control},
+  author={Wilhelm, Jay P and Pertl, Emily D and Pertl, Franz A and Smith, James E},
+  year={2009},
+  organization={ASME}
+}
+
+
+
+
+@inproceedings{mcgrain2009circulation,
+  title={Circulation control applied to wind turbines},
+  author={McGrain, David and Angle II, Gerald M and Wilhelm, Jay P and Pertl, Emily D and Smith, James E},
+  year={2009},
+  organization={ASME}
+}
+
+@article{hardin2013maintenance,
+  title={Maintenance Issues and Fail Safes of the Oculus Sensor Platform System},
+  author={Hardin, J and Wowczuk, Z and Lowery, A and Wilhelm, J and others},
+  journal={Training},
+  volume={2013},
+  pages={12--09}
+}
+
+@inproceedings{wilhelm2009vortex,
+  title={Vortex analytical Model of a Circulation Controlled Vertical Axis Wind Turbine},
+  author={Wilhelm, Jay P and Panther, Chad C and Pertl, Franz A and Smith, James E},
+  booktitle={American Society of Mechanical Engineers, Energy Sustainability Conference, San Francisco, CA},
+  year={2009}
+}
+
+@article{lyons2008deflection,
+  title={Deflection and Vibration Reduction of a Wind Tunnel Test Stand},
+  author={Lyons, Michael and Wilhelm, Jay and Kweder, Jonathan and Angle, Gerald and Hard, Steven and Hubbell, Meagan and Smith, James},
+  year={2008}
+}
+
+@article{wilhelm2011preliminary,
+  title={Preliminary Systems Evaluation for a Guidable Extended Range Tube Launched-UAV},
+  author={Wilhelm, Jay and Browning, Patrick and Gautam, Mridul and Huebsch, Wade},
+  journal={SAE International Journal of Aerospace},
+  volume={4},
+  number={2},
+  pages={859--864},
+  year={2011},
+  publisher={SAE International}
+}
+
+@article{wilhelm2011electromagnetic,
+  title={Electromagnetic Compliance Issues of Project Oculus},
+  author={Wilhelm, J and Lowery, A and Pertl, F and Nutter, R and others},
+  journal={Training},
+  volume={2011},
+  pages={03--04}
+}
+
+@inproceedings{wilhelm2008development,
+  title={Development of a small-scale computer cluster},
+  author={Wilhelm, Jay and Smith, Justin T and Smith, James E},
+  booktitle={SPIE Defense and Security Symposium},
+  pages={69610N--69610N},
+  year={2008},
+  organization={International Society for Optics and Photonics}
+}
+
+@article{browning2011experimental,
+  title={An Experimental Investigation of the Transient Effects Associated with Wing Deployment During Ballistic Flight},
+  author={Browning, Patrick H and Cain, Richard and LaBarbara, Kirk and Huebsch, Wade and Wilhelm, Jay},
+  journal={SAE International Journal of Aerospace},
+  volume={4},
+  number={2},
+  pages={1097--1105},
+  year={2011},
+  publisher={SAE International}
+}
+
+
+
+@inproceedings{graham2009circulation,
+  title={Circulation Controlled Airfoil Analysis Through 360 Degrees Angle of Attack},
+  author={Graham IV, Henry Z and Hubbell, Meagan and Panther, Chad and Wilhelm, Jay and Angle II, Gerald M and Smith, James E},
+  year={2009},
+  organization={ASME}
+}
+
+@phdthesis{wilhelm2005aircraft,
+  title={Aircraft Intercom System Design for Project Oculus},
+  author={Wilhelm, Jay Paul},
+  year={2005},
+  school={West Virginia University}
+}
+
+@misc{smith2010method,
+  title={METHOD FOR CIRCULATION CONTROLLED VERTICAL AXIS WIND TURBINES},
+  author={SMITH, James and PERTL, Franz and ANGLE, Gerald and YARBOROUGH, Christina and NAWROCKI, Andrew and WILHELM, Jay and WILLIAMS, Kenneth and others},
+  year={2010},
+  month=aug # "~20",
+  note={WO Patent 2,010,093,621}
+}
+
+@article{nawrocki2010testing,
+  title={Testing of a Sliding Gate Valve for Circulation Control Wind Turbines},
+  author={Nawrocki, Andrew and Hard, Steven and Wilhelm, Jay and Clarke, Mary Ann and Smith, James E},
+  journal={\& Proceedings 저널{\textperiodcentered}},
+  year={2010}
+}
+
+@inproceedings{wilhelm2008development1,
+  title={Development of a standardized differential-reflective bioassay for microbial pathogens},
+  author={Wilhelm, Jay and Smith, James E},
+  booktitle={SPIE Defense and Security Symposium},
+  pages={69540V--69540V},
+  year={2008},
+  organization={International Society for Optics and Photonics}
+}
+
+
+
+@article{hardgpu,
+  title={GPU Cuda Performance on Two-Dimensional and Three-Dimensional VAWT Vortex Models},
+  author={Hard, Steven and Wilhelm, Jay and Pertl, Franz A and Smith, James E}
+}
+
+
+
+@article{wilhelm2010controller,
+  title={Controller Design Methodology for an Advanced Lift, Vertical Axis Wind Turbine},
+  author={Wilhelm, Jay and Hard, Steven and Nawrocki, Andrew and Smith, James E},
+  journal={\& Proceedings 저널{\textperiodcentered}},
+  year={2010}
+}
+
+@inproceedings{wilhelm2011mist,
+  title={MIST: An operational ground surveillance camera},
+  author={Wilhelm, Jay P and Gautam, Mridul and Ronen, Shai},
+  booktitle={Technologies for Homeland Security (HST), 2011 IEEE International Conference on},
+  pages={129--135},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{minehart2010comparison,
+  title={A Comparison of Wing Stowing Designs Focused on Increased Continuous Payload Volume for Projectile Applications},
+  author={Minehart, R and Browning, P and Wilhelm, J and Hamburg, S and others},
+  journal={Training},
+  volume={2010},
+  pages={01--06}
+}
+
+@article{angle2008experimental,
+  title={Experimental Investigation into a 10: 1 Elliptical Airfoil with Circulation Control Augmentation for Rotorcraft Use},
+  author={Angle II, Gerald and Kweder, Jonathan and Hubbell, Meagan and Wilhelm, Jay and Smith, James E},
+  year={2008}
+}
+
+@article{danigel1997computer,
+  title={Computer-Controlled Reverse Osmosis Monitoring for Industrial Purposes},
+  author={Danigel, H and Obergfell, P and Wilhelm, JP},
+  journal={AT PROCESS},
+  volume={2},
+  pages={440--443},
+  year={1997},
+  publisher={INFORMATION SERVICES}
+}
+
+
+@inproceedings{wilhelm2006aircraft,
+  title={Aircraft voice intercommunications system design for Project Oculus},
+  author={Wilhelm, Jay and Smith, James E},
+  booktitle={Defense and Security Symposium},
+  pages={62490C--62490C},
+  year={2006},
+  organization={International Society for Optics and Photonics}
+}
+
+
+@article{wilhelm2011automatic,
+  title={Automatic Control Implementation and Upgraded Electrical System Design for the Oculus 2.0 Sensor Platform},
+  author={Wilhelm, Jay P and Smith, James E},
+  journal={Training},
+  volume={2011},
+  pages={03--04}
+}
+
+@article{wilhelm2013spin,
+  title={A De-Spin and Wings-Leveling Controller for a 40 mm Hybrid Projectile},
+  author={Wilhelm, Jay and Close, Joesph and Huebsch, Wade and Gautam, Mridul},
+  journal={SAE International Journal of Aerospace},
+  volume={6},
+  number={2},
+  pages={683--692},
+  year={2013},
+  publisher={SAE International}
+}
+
+@article{cain2013investigation,
+  title={Investigation of Small Scale Pulsed Detonation Engines and Feasibility Study for Implementation with Disposable Unmanned Aerial Systems},
+  author={Cain, Richard Brian and Browning, Patrick and Huebsch, Wade and Wilhelm, Jay},
+  journal={SAE International Journal of Aerospace},
+  volume={6},
+  number={2},
+  pages={785--790},
+  year={2013},
+  publisher={SAE International}
+}
+
+@inproceedings{wilhelm2012flight,
+  title={Flight Simulation of a Hybrid Projectile to Estimate the Impact of Launch Angle on Range Extension},
+  author={Wilhelm, Jay P and Jackson, Edward R and Browning, Patrick and Huebsch, Wade and Mucino, Victor and Gautam, Mridul},
+  booktitle={ASME 2012 International Mechanical Engineering Congress and Exposition},
+  pages={615--620},
+  year={2012},
+  organization={American Society of Mechanical Engineers}
+}
+
+@inproceedings{jackson2012simplified,
+  title={Simplified Interior Ballistics Analysis of a Hybrid Projectile Prototype},
+  author={Jackson, Edward and Wilhelm, Jay and Browning, Patrick H and Mucino, Victor and Gautam, Mridul},
+  booktitle={ASME 2012 International Mechanical Engineering Congress and Exposition},
+  pages={251--260},
+  year={2012},
+  organization={American Society of Mechanical Engineers}
+}
+
+@inproceedings{napolillo2012shopfoil,
+  title={Shopfoil: Design of Unoptimized Airfoils},
+  author={Napolillo, Zachary G and Hamburg, Shanti D and Browning, Patrick H and Huebsch, Wade W and Wilhelm, Jay and Gautam, Mridul},
+  booktitle={ASME 2012 International Mechanical Engineering Congress and Exposition},
+  pages={451--458},
+  year={2012},
+  organization={American Society of Mechanical Engineers}
+}
+
+@techreport{wilhelm2014guidance,
+  title={Guidance and Range Extension Control System for a Hybrid Projectile},
+  author={Wilhelm, Jay and Close, Joseph and Huebsch, Wade},
+  year={2014},
+  institution={SAE Technical Paper}
+}
+
+@inproceedings{myers2016performance,
+  title={Performance Evaluation of Thrust Washer Bearings Using a Customized Bench Scale Test Rig},
+  author={Myers, Kyle and Jenson, Sean and Brooksbank, Mike and Ali, Muhammad and Alam, Khairul and Choi, Junghun and Wilhelm, Jay and Gillespie, Joseph and Walker, Richard},
+  booktitle={ASME 2016 International Mechanical Engineering Congress and Exposition},
+  pages={V04AT05A054--V04AT05A054},
+  year={2016},
+  organization={American Society of Mechanical Engineers}
+}
+
+@inproceedings{wilhelm2008ignition,
+  title={Ignition energy testing of the quarter wave coaxial cavity resonator with air-liquefied-gas mixtures},
+  author={Wilhelm, JP and Pertl, FA and Wildfire, PE and Smith, JE},
+  booktitle={AIAA Paper 2008-3775, 39th American Institute of Aeronautics and Astronautics Plasmadynamics and Laser Conf},
+  year={2008}
+}
+
+@article{wilhelm2017energy,
+  title={Energy-Neutral Data Collection Rate Control for IoT Animal Behavior Monitors},
+  author={Wilhelm, Jay and Blackshire, Sheldon and Lanzone, Michael},
+  journal={Applied Sciences},
+  volume={7},
+  number={11},
+  pages={1169},
+  year={2017},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@article{wilhelm2017heterogeneous,
+  title={Heterogeneous Aerial Platform Adaptive Mission Planning Using Genetic Algorithms},
+  author={Wilhelm, Jay and Rojas, Jonathan and Eberhart, Gina and Perhinschi, Mario},
+  journal={Unmanned Systems},
+  volume={5},
+  number={01},
+  pages={19--30},
+  year={2017},
+  publisher={World Scientific}
+}
+
+@article{miller2016limitations,
+  title={Limitations and mechanisms influencing the migratory performance of soaring birds},
+  author={Miller, Tricia A and Brooks, Robert P and Lanzone, Michael J and Brandes, David and Cooper, Jeff and Tremblay, Junior A and Wilhelm, Jay and Duerr, Adam and Katzner, Todd E},
+  journal={Ibis},
+  volume={158},
+  number={1},
+  pages={116--134},
+  year={2016},
+  publisher={Wiley Online Library}
+}
+
+@incollection{eberhart2017impact,
+  title={Impact of Varied Power Setting on Thrust of Multi-Rotor VTOL sUAS in Ground Effect},
+  author={Eberhart, Gina M and Wilhelm, Jay P},
+  booktitle={AIAA Information Systems-AIAA Infotech@ Aerospace},
+  pages={0226},
+  year={2017}
+}
+
+@techreport{wilhelm2013hybrid,
+  title={Hybrid Projectile Transformation Condition Detection System for Extended Selectable Range},
+  author={Wilhelm, Jay and Gioia, Christopher and Huebsch, Wade and Gautam, Mridul},
+  year={2013},
+  institution={SAE Technical Paper}
+}
+
+@misc{bourlai2015apparatuses,
+  title={Apparatuses, systems, and methods for confirming identity},
+  author={Bourlai, Thirimachos and Wowczuk, Zenovy S and Ferrell, Walter A and Amerman, Steven R and Wilhelm, Jay P and Osia, Nnamdi C and Patrick, R Esposito II and Upton, Terrence H},
+  year={2015},
+  month=aug # "~31",
+  publisher={Google Patents},
+  note={US Patent App. 14/841,581}
+}
+
+@inproceedings{wilhelm2016development,
+  title={Development of an Area of Interest Extended Coverage Loitering Path Planner},
+  author={Wilhelm, Jay and Rojas, Jonathan},
+  booktitle={Proceedings of the AIAA Infotech@ Aerospace, AIAA SciTech Forum, San Diego, CA, USA},
+  pages={4--8},
+  year={2016}
+}
+
+@inproceedings{wilhelm2009momentum,
+  title={Momentum Analytical Model of a Circulation Controlled Vertical Axis Wind Turbine (CC-VAWT)},
+  author={Wilhelm, JP and Panther, C and Pertl, FA and Smith, JE},
+  booktitle={Proceedings of ASME 3rd International Conference Energy Sustainability, San Francisco, CA, USA},
+  pages={19--23},
+  year={2009}
+}
+
+@article{wilhelm2017dynamic,
+  title={Dynamic Circulation Control for a Vertical Axis Wind Turbine using Virtual Solidity Matching},
+  author={Wilhelm, Jay P and Nix, Andrew C and Panther, Chad C and Huebsch, Wade W and Smith, James E},
+  journal={Smart Grid and Renewable Energy},
+  volume={8},
+  number={04},
+  pages={99},
+  year={2017},
+  publisher={Scientific Research Publishing}
+}
+
+@article{wilhelm2014roll,
+  title={Roll and Pitch Produced During an Uneven Wing Deployment of a Hybrid Projectile},
+  author={Wilhelm, Jay and Close, Joseph},
+  journal={SAE International Journal of Aerospace},
+  volume={7},
+  number={2014-01-2112},
+  pages={16--23},
+  year={2014}
+}
+
+@misc{patrick2015apparatuses,
+  title={Apparatuses, systems, and methods for collaboration},
+  author={Patrick, R Esposito II and Wilhelm, Jay P},
+  year={2015},
+  month=oct # "~30",
+  publisher={Google Patents},
+  note={US Patent 20170126785A1}
+}
+
+@inproceedings{fritz2017analysis,
+  title={Analysis of 3D Printed Titanium Rocket Nozzle},
+  author={Fritz, Timothy J and Dunkle, Aaron and Huebsch, Wade and Wilhelm, Jay},
+  booktitle={58th AIAA/ASCE/AHS/ASC Structures, Structural Dynamics, and Materials Conference},
+  pages={0510},
+  year={2017}
+}
+
+@article{wilhelm2017direct,
+  title={Direct Entry Minimal Path UAV Loitering Path Planning},
+  author={Wilhelm, Jay P and Clem, Garrett S and Eberhart, Gina M},
+  journal={Aerospace},
+  volume={4},
+  number={2},
+  pages={23},
+  year={2017},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@article{darrah2015flexible,
+  title={A flexible genetic algorithm system for multi-uav surveillance: algorithm and flight testing},
+  author={Darrah, Marjorie and Wilhelm, Jay and Munasinghe, Thilanka and Duling, Kristin and Yokum, Steve and Sorton, Eric and Rojas, Jonathan and Wathen, Mitchell},
+  journal={Unmanned systems},
+  volume={3},
+  number={01},
+  pages={49--62},
+  year={2015},
+  publisher={World Scientific}
+}
+
+@book{griffin2013numerical,
+  title={Numerical and experimental study on the ability of dynamic roughness to alter the development of a leading edge vortex},
+  author={Griffin, Christopher D and Huebsch, WW and Rothmayer, AP and Wilhelm, JP},
+  year={2013}
+}
+
+@incollection{wilhelm2018development,
+  title={Development of a Ground Effect BEMT Analysis Method for Multirotor sUAS},
+  author={Wilhelm, Jay and Eberhart, Gina M},
+  booktitle={2018 AIAA Information Systems-AIAA Infotech@ Aerospace},
+  pages={0747},
+  year={2018}
+}
+
+@inproceedings{cyders2017characterization,
+  title={Characterization of natural and recoil-induced vibration of an AR-15 rifle at the cheekbone-stock interface},
+  author={Cyders, Timothy J and DiGiovanni, Jeffrey J and Jay, Wilhelm},
+  booktitle={Proceedings of Meetings on Acoustics 173EAA},
+  volume={30},
+  number={1},
+  pages={065011},
+  year={2017},
+  organization={ASA}
+}
+
+@inproceedings{clem2019intercept,
+  title={An Intercept and Following Strategy for a Multi-rotor Platform using a Modified Proportional Navigation},
+  author={Clem, Garrett and Wilhelm, Jay and Casbeer, David and Weintraub, Isaac E and Grymin, David J},
+  booktitle={AIAA Scitech 2019 Forum},
+  pages={0683},
+  year={2019}
+}
+
+@inproceedings{zhu2019evaluation,
+  title={Evaluation of Decay Functions for Vector Field Based Obstacle Avoidance},
+  author={Zhu, Yonry and Moleski, Travis and Wilhelm, Jay},
+  booktitle={AIAA Scitech 2019 Forum},
+  pages={1058},
+  year={2019}
+}
+
+@inproceedings{wilhelm2019circumnavigation,
+  title={Circumnavigation and obstacle avoidance guidance for UAVs using Gradient Vector Fields},
+  author={Wilhelm, Jay and Clem, Garrett and Casbeer, David},
+  booktitle={AIAA Scitech 2019 Forum},
+  pages={1791},
+  year={2019}
+}
+
+@article{wilhelm2019vector,
+  title={Vector Field UAV Guidance for Path Following and Obstacle Avoidance with Minimal Deviation},
+  author={Wilhelm, Jay P and Clem, Garrett},
+  journal={Journal of Guidance, Control, and Dynamics},
+  pages={1--9},
+  year={2019},
+  publisher={American Institute of Aeronautics and Astronautics}
+}
+
+@article{bridge2019arduino,
+  title={An Arduino-based RFID Platform for Animal Research},
+  author={Bridge, Eli Samuel and Wilhelm, Jay and Pandit, Meelyn M and Moreno, Alexander and Curry, Claire M and Pearson, Tyler D and Proppe, Darren S and Holwerda, Charles and Eadie, John M and Stair, Tez F and others},
+  journal={Frontiers in Ecology and Evolution},
+  volume={7},
+  pages={257},
+  year={2019},
+  publisher={Frontiers}
+}
+
+@article{mcgaughy2019ion,
+  title={Ion Selective Electrodes for Flue Gas Desulfurization Wastewater Monitoring: Effects of Ionic Strength on Selective Ions},
+  author={McGaughy, Kyle and Wilhelm, Jay P and Reza, M Toufiq},
+  journal={Applied Sciences},
+  volume={9},
+  number={15},
+  pages={3085},
+  year={2019},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@inproceedings{mcgaughy2017performance,
+  title={Performance of Ion Selective Electrodes (ISE) on Wastewaters from Power Plants},
+  author={McGaughy, Kyle and Wilhelm, Jay and Reza, M Toufiq},
+  booktitle={2017 AIChE Annual Meeting},
+  year={2017},
+  organization={AIChE}
+}
+
+@inproceedings{moleski2020trilateration,
+  title={Trilateration Positioning Using Hybrid Camera-LiDAR System},
+  author={Moleski, Travis W and Wilhelm, Jay},
+  booktitle={AIAA Scitech 2020 Forum},
+  pages={0393},
+  year={2020}
+}
+
+@inproceedings{english2020collision,
+  title={Collision Avoidance in OpenUxAS},
+  author={English, Jacob and Wilhelm, Jay},
+  booktitle={AIAA Scitech 2020 Forum},
+  pages={0880},
+  year={2020}
+}
+
+@inproceedings{browne2020impacts,
+  title={Impacts of Sensor and Hook Configuration on Perching Maneuvers for a Quadcopter UAV},
+  author={Browne, Jeremy P and Wilhelm, Jay},
+  booktitle={AIAA Scitech 2020 Forum},
+  pages={2297},
+  year={2020}
+}

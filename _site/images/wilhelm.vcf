@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jay Wilhelm
+N;CHARSET=UTF-8:Wilhelm;Jay;;;Ph.D.
+TEL;TYPE=WORK,VOICE:7405931508
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Stocker Center 251;Athens;Ohio;45701;
+TITLE;CHARSET=UTF-8:Associate Professor
+ORG;CHARSET=UTF-8:Ohio University
+URL;type=WORK;CHARSET=UTF-8:https://ouideas.github.io/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/jay-wilhelm-17a97a15/
+REV:2022-10-03T14:15:09.476Z
+END:VCARD

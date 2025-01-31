@@ -1,0 +1,42 @@
+/* Only apply these styles on the adsdoc page */
+.adsdoc-page header.masthead {
+    height: 10vh; /* 10% of the viewport height */
+    background-color: #024230;
+    color: white;
+    padding: 10px;
+}
+
+.adsdoc-page #table-container {
+    flex: 1; /* This takes up the remaining space */
+    padding: 20px;
+    background-color: #ecf0f1;
+    overflow-y: auto;
+    margin-top: 20px;
+}
+
+.adsdoc-page header.masthead nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%; /* Center navigation items vertically */
+}
+
+.adsdoc-page body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+}
+
+.adsdoc-page header.masthead {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+
+.adsdoc-page body {
+    padding-top: 10vh; /* Make room for the fixed masthead */
+}
+
