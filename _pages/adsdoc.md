@@ -189,7 +189,7 @@ permalink: /adsdoc/
 
         // Function to load and parse CSV data using PapaParse
         function loadCSVData(fileName) {
-            const filePath = `https://raw.githubusercontent.com/kirschlerj/kirschlerj.github.io/main/_pages/${fileName}`;
+            const filePath = `https://raw.githubusercontent.com/kirschlerj/kirschlerj.github.io/main/${fileName}`;
 
             fetch(filePath)
                 .then(response => response.text())
